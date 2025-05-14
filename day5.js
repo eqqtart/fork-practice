@@ -1,4 +1,5 @@
 /* let is used instead of var in this  */
+/* */
 
 let age = "20";
 
