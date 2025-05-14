@@ -14,7 +14,7 @@ switch(favouriteColour) {
   case "red":
     console.log("You like red.");
     break;
-  case "blue"
+  case "blue":
     console.log("You like blue.");
     break;
   case "green":
@@ -30,9 +30,9 @@ let number2 = 5;
 if (number1 > number2) {
   console.log("Number 1 is bigger.");
 } else {
-  console.log("Number 2 is bigger or equal.")
+  console.log("Number 2 is bigger or equal.");
 }
 
-let total = 10 + 5 *;
+let total = 10 + 5;
 
 console.log("The total is " + total);
